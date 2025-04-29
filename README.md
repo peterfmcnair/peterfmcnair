@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi! I'm Peter 👋
+You can find me at [peterfmcnair.com](https://www.peterfmcnair.com)
 <!--
 **peterfmcnair/peterfmcnair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
